@@ -1,0 +1,11 @@
+a1,a2,a3,d
+x1,old,yes,swr,down
+x2,old,no,swr,down
+x3,old,no,hwr,down
+x4,mid,yes,swr,down
+x5,mid,yes,hwr,down
+x6,mid,no,hwr,up
+x7,mid,no,swr,up
+x8,new,yes,swr,up
+x9,new,no,hwr,up
+x10,new,no,swr,up
